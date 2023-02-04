@@ -69,13 +69,13 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MoTech Yt</a>
+
+
 
 
 • ❣️ <a href=https://t.me/BetterProffesor>𝕻𝖗𝖔𝖋𝖋𝖊𝖘𝖔𝖗</a>
 • ❣️ <a href=https://youtube.com/@aigoprojects>YouTube</a>
-• ❣️ <a href=https://t.me/mr_MKN>𝗠𝗿.𝗠𝗞𝗡 𝗧𝗚</a>
+• ❣️ <a href=https://www.instagram.com/suhail__ebrahim>Instagram</a>
 
 
 """
