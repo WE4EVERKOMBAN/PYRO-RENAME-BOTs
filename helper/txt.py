@@ -37,7 +37,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/BugFilms>Team BugFilms</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=t.me//BetterPeoffesor>𝕻𝖗𝖔𝖋𝖋𝖊𝖘𝖔𝖗</a>
+├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=t.me//BetterProffesor>𝕻𝖗𝖔𝖋𝖋𝖊𝖘𝖔𝖗</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -69,14 +69,12 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
+Speacial Thanks To All Developers
 
-
-
-
-
+• ❣️ <a href=https://t.me/AigoAirdropsAdmin>𝗝𝗶𝗺𝗺𝘆 𝗙𝗮𝗹𝗹𝗼𝗻❣️</a>
 • ❣️ <a href=https://t.me/BetterProffesor>𝕻𝖗𝖔𝖋𝖋𝖊𝖘𝖔𝖗</a>
 • ❣️ <a href=https://youtube.com/@aigoprojects>𝗬𝗼𝘂𝗧𝘂𝗯𝗲🎬</a>
-• ❣️ <a href=https://www.instagram.com/suhail__ebrahim>𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺❤️</a>
+• ❣️ <a href=https://t.me/BF_Links>𝗕𝘂𝗴𝗙𝗶𝗹𝗺𝘀❤️</a>
 
 
 """
